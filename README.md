@@ -1,16 +1,24 @@
-# chat_bot
+# Movie Recommendation Chat Bot - chat_bot
 
-A new Flutter project.
+This Flutter project is a movie recommendation chatbot that helps users discover movies based on their preferences and interests. The chatbot uses natural language processing (NLP) to interact with users and suggest movies based on their responses.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application that integrates a chatbot to provide movie recommendations.
+### [Video Link](https://youtube.com/shorts/WUACcYqU8H4?si=eHcVcP9aIoLTLv49)
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure that you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart SDK
+- A code editor (e.g., Visual Studio Code or Android Studio)
+- [Flutter DevTools](https://flutter.dev/docs/development/tools/devtools)
+
+### Setup
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/ThisIsSumit/Movie-Recommendation-Chat-Bot.git
